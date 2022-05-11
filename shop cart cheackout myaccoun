@@ -103,13 +103,21 @@ margin-right: 30px;
   visibility: visible !important;
   margin-top: -20px;
 }
-
 .woocommerce .products .product-inner:hover .woo-entry-inner li.price-wrap {
 margin-bottom: 0px;
 transition:0.9s;
 }
 .wcmenucart-count {
   display: none;
+}
+#tab-reviews {
+  padding-top: 30px;
+}
+#tab-reviews .avatar {
+  padding-top: 10px;
+}
+#tab-reviews .comment-text {
+  padding-top: 15px;
 }
 /*------wish list----*/
 .wishlist_products_counter.top_wishlist-heart::before{
