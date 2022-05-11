@@ -761,6 +761,9 @@ display: none;
   color: #85c227;
   font-weight: 500;
 }
+.woocommerce-privacy-policy-text {
+  margin-bottom: 15px !important;
+}
 #order_review tr.cart-subtotal, 
 #order_review tr.order-total {
    background-color: #F1F3F4 !important;
